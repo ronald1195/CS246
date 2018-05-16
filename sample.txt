@@ -4,4 +4,5 @@ Response: Now that I added something to this file we can say it is the best file
 
 -> Getting the pull command correctly...
 
--> Testing conflict of pull... (2)
+-> Testing conflict of pull... (2) - Revised
+
